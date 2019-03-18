@@ -1,7 +1,7 @@
 [Time Series Consulting](timeseriesconsulting.md) |
 [Portfolio](portfolio.md) |
-[Terms and Conditions](termsandconditions.md)
-[E-mail me](termsandconditions.md)
+[Terms and Conditions](termsandconditions.md) |
+[E-mail me](termsandconditions.md) |
 [Connect with me on LinkedIn](termsandconditions.md)
 
 # Background
