@@ -1,4 +1,6 @@
-[Portfolio](portfolio.md)
+[Time Series Consulting](timeseriesconsulting.md)
+[Portfolio and Tutorials](portfolio.md)
+[Terms and Conditions](termsandconditions.md)
 
 # Background
 
