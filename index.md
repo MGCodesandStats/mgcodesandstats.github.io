@@ -1,4 +1,4 @@
-[Time Series Consulting](timeseries.md) |
+[Time Series Consulting](MGCodesandStats/timeseriesconsulting/index.md) |
 [Portfolio](portfolio.md) |
 [Terms and Conditions](termsandconditions.md) |
 [E-mail me](mailto:michael@michaeljgrogan.com)
