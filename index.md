@@ -1,5 +1,5 @@
 [Time Series Consulting](timeseriesconsulting.md) |
-[Portfolio and Tutorials](portfolio.md) |
+[Portfolio](portfolio.md) |
 [Terms and Conditions](termsandconditions.md)
 
 # Background
