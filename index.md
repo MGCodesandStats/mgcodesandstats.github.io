@@ -3,19 +3,19 @@
 [Terms and Conditions](https://mgcodesandstats.github.io/terms/) |
 [E-mail me](mailto:michael@michaeljgrogan.com)
 
-Facebook
-Twitter
-LinkedIn
-Cross Validated
-Github
-
 # Background
 
 ![profile](resize-0251.jpg)
 
 My name is Michael Grogan, I am a machine learning consultant and educator specialising in time series analysis using both Python and R, and the use of such analysis in generating business intelligence solutions.
 
-I have worked with a variety of clients in devising time series solutions with machine learning techniques, and have presented my work at international conferences.
+I have worked with a variety of clients in devising time series solutions with machine learning techniques, and have presented my work at international conferences. Feel free to follow me on social media:
+
+Facebook
+Twitter
+LinkedIn
+Cross Validated
+Github
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
