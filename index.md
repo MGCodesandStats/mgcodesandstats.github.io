@@ -17,39 +17,6 @@ I have worked with a variety of clients in devising time series solutions with m
 [Cross Validated](https://mgcodesandstats.github.io/timeseriesconsulting/) |
 [Github](mailto:michael@michaeljgrogan.com)
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![Twitter][1.1]][1]
-[![Facebook][2.1]][2]
-[![GitHub][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/MGCodesandStats
-[2]: http://www.facebook.com/MGCodesandStats
-[6]: http://www.github.com/MGCodesandStats
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 # Testimonials
 
