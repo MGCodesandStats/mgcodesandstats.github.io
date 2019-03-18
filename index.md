@@ -3,6 +3,12 @@
 [Terms and Conditions](https://mgcodesandstats.github.io/terms/) |
 [E-mail me](mailto:michael@michaeljgrogan.com)
 
+Facebook
+Twitter
+LinkedIn
+Cross Validated
+Github
+
 # Background
 
 ![profile](resize-0251.jpg)
