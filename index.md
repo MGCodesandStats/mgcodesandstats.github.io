@@ -11,11 +11,11 @@ My name is Michael Grogan, I am a machine learning consultant and educator speci
 
 I have worked with a variety of clients in devising time series solutions with machine learning techniques, and have presented my work at international conferences. Feel free to follow me on social media:
 
-Facebook
-Twitter
-LinkedIn
-Cross Validated
-Github
+[Facebook](https://mgcodesandstats.github.io/timeseriesconsulting/) |
+[Twitter](https://mgcodesandstats.github.io/timeseriesconsulting/) |
+[LinkedIn](https://mgcodesandstats.github.io/timeseriesconsulting/) |
+[Cross Validated](https://mgcodesandstats.github.io/timeseriesconsulting/) |
+[Github](mailto:michael@michaeljgrogan.com)
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
