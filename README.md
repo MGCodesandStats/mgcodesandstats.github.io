@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+[Home](https://mgcodesandstats.github.io/) |
+[Time Series Consulting](https://mgcodesandstats.github.io/timeseriesconsulting/) |
+[Portfolio](https://mgcodesandstats.github.io/portfolio/) |
+[Terms and Conditions](https://mgcodesandstats.github.io/terms/) |
+[E-mail me](mailto:michael@michaeljgrogan.com) |
+[LinkedIn](https://www.linkedin.com/in/michaeljgrogan/)
 
-You can use the [editor on GitHub](https://github.com/MGCodesandStats/michaeljgrogan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Background
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![profile](resize-0251.jpg)
 
-### Markdown
+My name is Michael Grogan, I am a machine learning consultant and educator specialising in time series analysis using both Python and R, and the use of such analysis in generating business intelligence solutions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have worked with a variety of clients in devising time series solutions with machine learning techniques, and have presented my work at international conferences. Feel free to follow me on social media:
 
-```markdown
-Syntax highlighted code block
+[Facebook](http://www.facebook.com/MGCodesandStats/) |
+[Twitter](http://twitter.com/MGCodesandStats/) |
+[LinkedIn](http://www.linkedin.com/in/michaeljgrogan/) |
+[Stack Exchange](http://stats.stackexchange.com/users/137066/michael-grogan) |
+[GitHub](http://github.com/mgcodesandstats)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Testimonials
 
-1. Numbered
-2. List
+_Michael Grogan is the best data scientist I have ever worked with. I found him through his web site. From his first email, it was clear Michael is a professional and capable individual who truly cares about his clients and ensuring their success. I had a significant project to complete on a tight timeline._
 
-**Bold** and _Italic_ and `Code` text
+_Despite changing expectations and scope, Michael was able to deliver timely, comprehensive, and, most importantly, easy-to-understand analysis of my data. Michael and I live in different continents and are separated by several time zones. This was never an issue and it was easy to communicate with him via Skype and email._
 
-[Link](url) and ![Image](src)
-```
+_Normally, I don’t write these types of testimonials, but I feel compelled to write one for him, because without his knowledge and willingness to dive deep into my data and utilize different statistical methods, my project would have not been successful. Thanks, Michael._
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**J. Gariepy, Communications Manager**
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MGCodesandStats/michaeljgrogan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Michael’s website is a fantastic reference point for anyone interested in Data Science. He provides real world problems and solutions, showing practical applications often lacking in online resources. He approaches Data Science from a strong mathematics background, providing a fresh perspective not found in the mostly computer science based tutorials._
 
-### Support or Contact
+**B. Larson, Analytics4all**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+_“We certainly want to publish your R-Shiny article. This is a superb effort. To be honest, I don’t get many article drafts as well written, structured and crafted as this, so special kudos for that.”_
+
+**Editor, Sitepoint**
