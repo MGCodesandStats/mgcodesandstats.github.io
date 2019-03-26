@@ -11,6 +11,8 @@
 
 My name is Michael Grogan, I am a machine learning consultant and educator specialising in time series analysis using both Python and R, and the use of such analysis in generating business intelligence solutions.
 
+My educational background is a Master's degree in Economics from University College Cork, Ireland.
+
 I have worked with a variety of clients in devising time series solutions with machine learning techniques, and have presented my work at international conferences. Feel free to follow me on social media:
 
 [Facebook](http://www.facebook.com/MGCodesandStats/) |
