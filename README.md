@@ -9,7 +9,7 @@
 
 ![profile](resize-0251.jpg)
 
-My name is Michael Grogan, I am a machine learning consultant and educator specialising in time series analysis using both Python and R, and the use of such analysis in generating business intelligence solutions.
+My name is Michael Grogan, I am a machine learning consultant and educator. I have a particular interest in time series analysis using both Python and R, and the use of such analysis in generating business intelligence solutions.
 
 My educational background is a Master's degree in Economics from University College Cork, Ireland.
 
