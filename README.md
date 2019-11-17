@@ -16,6 +16,5 @@ I have worked with a variety of clients in devising business solutions with mach
 
 [Facebook](http://www.facebook.com/MGCodesandStats/) |
 [Twitter](http://twitter.com/MGCodesandStats/) |
-[LinkedIn](http://www.linkedin.com/in/michaeljgrogan/) |
 [Stack Exchange](http://stats.stackexchange.com/users/137066/michael-grogan) |
 [GitHub](http://github.com/mgcodesandstats)
