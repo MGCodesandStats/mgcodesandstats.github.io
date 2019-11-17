@@ -8,9 +8,7 @@
 
 ![profile](resize-0251.jpg)
 
-My name is Michael Grogan, I am a machine learning consultant and educator. I have a particular interest in the areas of time series analysis, NLP, and image classification using both Python and R, and the use of such analysis in generating business intelligence solutions.
-
-The rest of my stack includes AWS (Cloud Practitioner Certified), Docker, Linux, MySQL, PostgreSQL, Shiny.
+I am a machine learning consultant and educator with a passion for statistics, programming, and data science. I have a particular interest in using machine learning to generate business intelligence solutions.
 
 My educational background is a Master's degree in Economics from University College Cork, Ireland.
 
