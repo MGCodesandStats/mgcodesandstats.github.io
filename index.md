@@ -1,5 +1,6 @@
 [Home](https://mgcodesandstats.github.io/) |
 [Portfolio](https://mgcodesandstats.github.io/portfolio/) |
+[Speaking Engagements](https://mgcodesandstats.github.io/speaking-engagements/) |
 [Terms and Conditions](https://mgcodesandstats.github.io/terms/) |
 [E-mail me](mailto:contact@michaeljgrogan.com) |
 [LinkedIn](https://www.linkedin.com/in/michaeljgrogan/)
