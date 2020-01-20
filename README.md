@@ -11,7 +11,7 @@
 
 I am a machine learning consultant and educator with a passion for statistics, programming, and data science. I have a particular interest in the use of time series analysis to generate business intelligence solutions.
 
-My "go-to" machine learning platform is TensorFlow, having previously delivered the [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) seminar for O'Reilly Media.
+My "go-to" machine learning platform is **TensorFlow**, having previously delivered the [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) seminar for O'Reilly Media.
 
 My educational background is a Master's degree in Economics from University College Cork, Ireland.
 
