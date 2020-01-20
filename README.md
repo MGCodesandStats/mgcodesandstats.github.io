@@ -9,11 +9,11 @@
 
 ![profile](resize-0251.jpg)
 
-I am a machine learning consultant and educator with a passion for statistics, programming, and data science. I have a particular interest in using machine learning to generate business intelligence solutions.
+I am a machine learning consultant and educator with a passion for statistics, programming, and data science. I have a particular interest in the use of time series analysis to generate business intelligence solutions.
+
+My "go-to" machine learning platform is TensorFlow, having previously delivered seminars on [**TensorFlow 2.0 Essentials: What's New**](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) for O'Reilly Media.
 
 My educational background is a Master's degree in Economics from University College Cork, Ireland.
-
-I have worked with a variety of clients in devising business solutions with machine learning techniques, and have presented my work at international conferences. Feel free to follow me on social media:
 
 [Facebook](http://www.facebook.com/MGCodesandStats/) |
 [Twitter](http://twitter.com/MGCodesandStats/) |
