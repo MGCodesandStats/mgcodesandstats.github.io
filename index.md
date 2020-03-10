@@ -4,7 +4,7 @@
 [GitHub](https://github.com/mgcodesandstats) |
 [Speaking Engagements](https://mgcodesandstats.github.io/speaking-engagements/) |
 [Terms](https://mgcodesandstats.github.io/terms/) |
-[E-mail me](mailto:michael@michael-grogan.com)
+[E-mail](mailto:michael@michael-grogan.com)
 
 
 # Background
