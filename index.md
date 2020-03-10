@@ -1,9 +1,9 @@
 [Home](https://mgcodesandstats.github.io/) |
-[Medium Portfolio](https://medium.com/@firstclassanalyticsmg) |
+[Medium](https://medium.com/@firstclassanalyticsmg) |
 [LinkedIn](https://www.linkedin.com/in/michaeljgrogan/) |
 [GitHub](https://github.com/mgcodesandstats) |
 [Speaking Engagements](https://mgcodesandstats.github.io/speaking-engagements/) |
-[Terms and Conditions](https://mgcodesandstats.github.io/terms/) |
+[Terms](https://mgcodesandstats.github.io/terms/) |
 [E-mail me](mailto:michael@michael-grogan.com)
 
 
