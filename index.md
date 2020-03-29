@@ -13,7 +13,7 @@
 
 I am a machine learning consultant and educator with a passion for statistics, programming, and data science. I have a particular interest in the use of time series analysis to generate business intelligence solutions. Some favoured techniques in this regard include ARIMA, LSTM, and the open-source Prophet library by Facebook. My "go-to" machine learning platform is **TensorFlow**, having previously delivered the [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) seminar for O'Reilly Media.
 
-My educational background is a Master's degree in Economics from University College Cork, Ireland. Given my background in economics, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
+My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
 
 Feel free to take a look at some samples of my work below. This particular project illustrates the use of machine learning models to classify booking cancellations for the hotel industry, as well as the implementation of time series forecasting tools to predict cancellation and average daily rate trends.
 
