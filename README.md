@@ -15,20 +15,12 @@ I am a machine learning consultant and educator with a passion for statistics, p
 
 My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
 
-Feel free to take a look at some samples of my work below. This particular project illustrates the use of machine learning models to classify booking cancellations for the hotel industry, as well as the implementation of time series forecasting tools to predict cancellation and average daily rate trends.
+## Portfolio Samples
 
-- [Classification of Hotel Cancellations Using KNN and SMOTE](https://www.michael-grogan.com/hotel-modelling/articles/knn)
+[Hotel Booking Cancellations: Classification, Regression, and Time Series Analysis](https://www.michael-grogan.com/hotel-modelling)
 
-- [Feature Selection Methods](https://www.michael-grogan.com/hotel-modelling/articles/feature_selection)
+[Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks/)
 
-- [Forecasting Average Daily Rate Trends For Hotels Using LSTM](https://www.michael-grogan.com/hotel-modelling/articles/lstm_adr)
+[Modelling Volatile Time Series with LSTM Networks](https://www.michael-grogan.com/lstm-rainfall/)
 
-- [Imbalanced Classes: Predicting Hotel Cancellations with Support Vector Machines](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm)
-
-- [Predicting Weekly Hotel Cancellations with ARIMA](https://www.michael-grogan.com/hotel-modelling/articles/arima)
-
-- [Predicting Weekly Hotel Cancellations with an LSTM Network](https://www.michael-grogan.com/hotel-modelling/articles/lstm_weeklycancellations)
-
-- [Regression-based neural networks with TensorFlow v2.0: Predicting Hotel Lead Time](https://www.michael-grogan.com/hotel-modelling/articles/regression_neural_network)
-
-- [XGBoost and Classification](https://www.michael-grogan.com/hotel-modelling/articles/boosting)
+[TensorFlow 2.0 Essentials: What's New](https://github.com/MGCodesandStats/tfv2)
