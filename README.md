@@ -6,21 +6,40 @@
 [Terms](https://mgcodesandstats.github.io/terms/) |
 [E-mail](mailto:contact@michael-grogan.com)
 
+# Predicting Hotel Cancellations with Machine Learning
 
-# Background
+The purpose of this project is to predict hotel cancellations for two separate hotels in Portugal, both on a classification and time series basis. Included in the GitHub repository are the datasets and notebooks for all models run. The Python version used is 3.6.5.
 
-![profile](resize-0251.jpg)
+## Summary of Results
 
-I am a machine learning consultant and educator with a passion for statistics, programming, and data science. I have a particular interest in the use of time series analysis to generate business intelligence solutions. Some favoured techniques in this regard include ARIMA, LSTM, and the open-source Prophet library by Facebook. My "go-to" machine learning platform is **TensorFlow**, having previously delivered the [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) seminar for O'Reilly Media.
+- SVM (Support Vector Machines) showed the highest overall F1 acccuracy score of **70%** in classifying hotel booking cancellations (both customers that cancel versus those that follow through with the booking). Recall (for booking cancellations) came in at **69%**.
 
-My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
+- However, XGBoost demonstrated a recall of **94%** for booking cancellations (i.e. of all customers who cancelled their hotel booking, the model correctly identified 94% of these), while overall accuracy came in at **55%**.
 
-## Portfolio Samples
+- ARIMA showed a superior performance in forecasting weekly hotel cancellations for dataset H1, while LSTM showed superior performance for dataset H2.
 
-[- Hotel Booking Cancellations: Classification, Regression, and Time Series Analysis](https://www.michael-grogan.com/hotel-modelling)
+- An LSTM model was used to forecast ADR (average daily rate) trends, while a regression-based neural network was used to predict lead time across customers. Findings are available in more detail below.
 
-[- Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks/)
+## Findings
 
-[- Modelling Volatile Time Series with LSTM Networks](https://www.michael-grogan.com/lstm-rainfall/)
+Each individual article with relevant findings can be accessed as below:
 
-[- TensorFlow 2.0 Essentials: What's New](https://github.com/MGCodesandStats/tfv2)
+### Feature Selection, Classification and Regression
+
+- [Classification of Hotel Cancellations Using KNN and SMOTE](https://www.michael-grogan.com/hotel-modelling/articles/knn)
+
+- [Feature Selection Methods](https://www.michael-grogan.com/hotel-modelling/articles/feature_selection)
+
+- [Imbalanced Classes: Predicting Hotel Cancellations with Support Vector Machines](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm)
+
+- [Regression-based neural networks with TensorFlow v2.0: Predicting Hotel Lead Time](https://www.michael-grogan.com/hotel-modelling/articles/regression_neural_network)
+
+- [XGBoost and Classification](https://www.michael-grogan.com/hotel-modelling/articles/boosting)
+
+### Time Series Forecasting
+
+- [Forecasting Average Daily Rate Trends For Hotels Using LSTM](https://www.michael-grogan.com/hotel-modelling/articles/lstm_adr)
+
+- [Predicting Weekly Hotel Cancellations with ARIMA](https://www.michael-grogan.com/hotel-modelling/articles/arima)
+
+- [Predicting Weekly Hotel Cancellations with an LSTM Network](https://www.michael-grogan.com/hotel-modelling/articles/lstm_weeklycancellations)
