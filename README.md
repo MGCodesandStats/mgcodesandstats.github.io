@@ -17,10 +17,10 @@ My educational background is a Master's degree in Economics from University Coll
 
 ## Portfolio Samples
 
-[Hotel Booking Cancellations: Classification, Regression, and Time Series Analysis](https://www.michael-grogan.com/hotel-modelling)
+[- Hotel Booking Cancellations: Classification, Regression, and Time Series Analysis](https://www.michael-grogan.com/hotel-modelling)
 
-[Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks/)
+[- Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks/)
 
-[Modelling Volatile Time Series with LSTM Networks](https://www.michael-grogan.com/lstm-rainfall/)
+[- Modelling Volatile Time Series with LSTM Networks](https://www.michael-grogan.com/lstm-rainfall/)
 
-[TensorFlow 2.0 Essentials: What's New](https://github.com/MGCodesandStats/tfv2)
+[- TensorFlow 2.0 Essentials: What's New](https://github.com/MGCodesandStats/tfv2)
