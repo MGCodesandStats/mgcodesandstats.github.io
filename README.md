@@ -39,3 +39,13 @@ I frequently make use of the following tech stack:
 - [Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks/)
 
 - [Modelling Volatile Time Series with LSTM Networks](https://www.michael-grogan.com/lstm-rainfall/)
+
+## Other Interests
+
+- Financial Writer. Frequently cover blue-chip stocks across a range of industries. Ranked in top 5% of analysts on TipRanks for stock market analysis.
+
+- Foreign Languages: Chinese (HSK 5) and German (B1). Here are a couple of my translated articles!
+
+- [分类和: 支持向量机 (SVM)](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_chinese)
+
+- [Unausgeglichene Klassen: Vorhersage von Hotelstornierungen mit Support Vector Machines](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_deutsch)
