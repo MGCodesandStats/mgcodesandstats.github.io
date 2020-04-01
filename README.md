@@ -49,3 +49,8 @@ I frequently make use of the following tech stack:
 - [分类和: 支持向量机 (SVM)](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_chinese)
 
 - [Unausgeglichene Klassen: Vorhersage von Hotelstornierungen mit Support Vector Machines](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_deutsch)
+
+* unordered list
+    + sub-item 1 
+    + sub-item 2 
+        - sub-sub-item 1
