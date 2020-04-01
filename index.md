@@ -26,7 +26,7 @@ I frequently make use of the following tech stack:
 
 * Implemented time series forecasting techniques for a local authority which significantly informed future policy considerations for their domain
 
-* Constructed multilevel model which allowed a company to significantly improve their predictions across complex survey data
+* Constructed multilevel model which allowed a company to improve prediction accuracy across complex survey data by 15%
 
 * Consulted with startup on use of LSTM and Seaborn to implement NLP and visualization techniques
 
@@ -40,10 +40,10 @@ I frequently make use of the following tech stack:
 
 * [Modelling Volatile Time Series with LSTM Networks](https://www.michael-grogan.com/lstm-rainfall/)
 
-## Other Interests
+## Other Skills
 
 * Financial Writer. Frequently cover blue-chip stocks across a range of industries. Ranked in top 5% of analysts on TipRanks for stock market analysis.
 
-* Foreign Languages: Chinese (HSK 5) and German (B1). Here are a couple of my translated articles!
+* Foreign Languages: Chinese (HSK 5) and German (B1). Here are two translated articles:
     + [分类和: 支持向量机 (SVM)](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_chinese)
     + [Unausgeglichene Klassen: Vorhersage von Hotelstornierungen mit SVM](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_deutsch) 
