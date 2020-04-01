@@ -46,4 +46,4 @@ I frequently make use of the following tech stack:
 
 * Foreign Languages: Chinese (HSK 5) and German (B1). Here are a couple of my translated articles!
     + [分类和: 支持向量机 (SVM)](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_chinese)
-    + [Unausgeglichene Klassen: Vorhersage von Hotelstornierungen mit Support Vector Machines](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_deutsch) 
+    + [Unausgeglichene Klassen: Vorhersage von Hotelstornierungen mit SVM](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_deutsch) 
