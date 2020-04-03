@@ -1,6 +1,4 @@
 [Home](https://mgcodesandstats.github.io/) |
-[Medium](https://medium.com/@firstclassanalyticsmg) |
-[LinkedIn](https://www.linkedin.com/in/michaeljgrogan/) |
 [GitHub](https://github.com/mgcodesandstats) |
 [Speaking Engagements](https://mgcodesandstats.github.io/speaking-engagements/) |
 [Terms](https://mgcodesandstats.github.io/terms/) |
@@ -28,7 +26,7 @@ I frequently make use of the following tech stack:
 
 * Constructed multilevel model which allowed a company to improve prediction accuracy across complex survey data by 15%
 
-* Consulted with startup on use of LSTM and Seaborn to implement NLP and visualization techniques
+* Advised startup on use of LSTM and Seaborn to implement NLP and visualization techniques
 
 * Delivered extensive seminar titled [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) for O'Reilly Media
 
@@ -44,6 +42,6 @@ I frequently make use of the following tech stack:
 
 * Financial Writer. Frequently cover blue-chip stocks across a range of industries. Ranked in top 5% of analysts on TipRanks for stock market analysis.
 
-* Foreign Languages: Chinese (HSK 5) and German (B1). Here are two translated data science articles written in Chinese and German.
+* Foreign Languages: Chinese (HSK 5) and German (B1). Here are two data science articles written in Chinese and German.
     + [分类和: 支持向量机 (SVM)](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_chinese)
     + [Unausgeglichene Klassen: Vorhersage von Hotelstornierungen mit SVM](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_deutsch) 
