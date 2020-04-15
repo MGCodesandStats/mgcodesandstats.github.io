@@ -14,11 +14,11 @@ My educational background is a Master's degree in Economics from University Coll
 
 I frequently make use of the following tech stack:
 
-* **Languages:** Python, R, SQL
+* **Languages:** Python, R, Spark, SQL
 
 * **Libraries:** imblearn, numpy, pandas, pyramid, scikit-learn, seaborn, shiny, statsmodels, tensorflow.keras, xgboost.
 
-* **AWS Experience:** S3, SageMaker (Autopilot, Ground Truth, Forecast, Studio). Cloud Practitioner Certified.
+* **AWS Experience:** Athena, Glue, S3, SageMaker (Autopilot, Ground Truth, Forecast, Studio). Cloud Practitioner Certified.
 
 ## Examples of past projects
 
