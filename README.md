@@ -42,6 +42,6 @@ I frequently make use of the following tech stack:
 
 * Financial Writer. Frequently cover blue-chip stocks across a range of industries. Ranked in top 5% of analysts on TipRanks for stock market analysis.
 
-* Foreign Languages: Chinese (HSK 5) and German (B1). Here are two of my data science articles written in Chinese and German!
+* Foreign Languages: Chinese (HSK 5) and German (B1). Here are two of my data science articles written in my best Chinese and German!
     + [分类和: 支持向量机 (SVM)](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_chinese)
     + [Unausgeglichene Klassen: Vorhersage von Hotelstornierungen mit SVM](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_deutsch) 
