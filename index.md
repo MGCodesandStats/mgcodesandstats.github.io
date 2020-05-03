@@ -8,7 +8,7 @@
 
 ![profile](resize-0251.jpg)
 
-I am a machine learning consultant and educator with a passion for statistics, programming, and data science. I have a particular interest in the use of time series analysis to generate business intelligence solutions.
+I am a data scientist with a passion for statistics and programming.
 
 My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
 
@@ -42,6 +42,6 @@ I frequently make use of the following tech stack:
 
 * Financial Writer. Frequently cover blue-chip stocks across a range of industries. Ranked in top 5% of analysts on TipRanks for stock market analysis.
 
-* Foreign Languages: Chinese (HSK 5) and German (B1). Here are two data science articles written in Chinese and German.
+* Foreign Languages: Chinese (HSK 5) and German (B1). Here are two of my data science articles written in my best Chinese and German!
     + [分类和: 支持向量机 (SVM)](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_chinese)
     + [Unausgeglichene Klassen: Vorhersage von Hotelstornierungen mit SVM](https://www.michael-grogan.com/hotel-modelling/articles/unbalanced_svm_deutsch) 
