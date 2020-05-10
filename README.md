@@ -22,4 +22,6 @@ My educational background is a Master's degree in Economics from University Coll
 
 ## Portfolio Samples
 
+* [Copper Prices After COVID-19: A Time Series Analysis](https://www.michael-grogan.com/economics-time-series/)
+
 * [Hotel Booking Cancellations: Classification, Regression, and Time Series Analysis](https://www.michael-grogan.com/hotel-modelling)
