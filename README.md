@@ -14,14 +14,16 @@ My educational background is a Master's degree in Economics from University Coll
 
 ## Examples of past projects
 
+* Delivered extensive seminar titled [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) for O'Reilly Media
+
 * Implemented time series forecasting techniques for a local authority which significantly informed future policy considerations for their domain
 
 * Constructed multilevel model which allowed a company to improve prediction accuracy across complex survey data by 15%
 
-* Delivered extensive seminar titled [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) for O'Reilly Media
-
 ## Portfolio Samples
 
-* [Copper Prices After COVID-19: A Time Series Analysis](https://www.michael-grogan.com/economics-time-series/)
-
 * [Hotel Booking Cancellations: Classification, Regression, and Time Series Analysis](https://www.michael-grogan.com/hotel-modelling)
+
+* [Image Recognition with Keras: Convolutional Neural Networks](https://www.michael-grogan.com/image-recognition-with-keras-convolutional-neural-networks/)
+
+* [TensorFlow 2.0 essentials: What's New](https://github.com/MGCodesandStats/tfv2)
