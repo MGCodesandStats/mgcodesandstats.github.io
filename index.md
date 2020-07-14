@@ -25,3 +25,5 @@ My educational background is a Master's degree in Economics from University Coll
 * [Predicting Hotel Cancellations with Gradient Boosted Trees: tf.estimator](https://www.michael-grogan.com/hotel-modelling/articles/gradient-boosting-classifier)
 
 * [TensorFlow Probability: Analysing "Brexit" web page views with Bayesian Switchpoint Analysis](https://www.michael-grogan.com/brexit-switchpoint-analysis/)
+
+* [TensorFlow Probability: Predicting Weekly Hotel Cancellations with Structural Time Series Modelling](https://www.michael-grogan.com/hotel-modelling/articles/tensorflow-probability-timeseries)
