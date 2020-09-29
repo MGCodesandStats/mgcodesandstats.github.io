@@ -14,7 +14,7 @@ My educational background is a Master's degree in Economics from University Coll
 
 ## TensorFlow Portfolio
 
-* Delivered extensive seminar titled [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) for O'Reilly Media. GitHub course code available [here](https://github.com/MGCodesandStats/tfv2).
+* Delivered extensive seminar titled [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) for O'Reilly Media.
 
 * [DiCE and tf.keras: Diverse Counterfactual Explanations for Hotel Cancellations](https://www.michael-grogan.com/hotel-modelling/articles/dice-hotels)
 
