@@ -11,3 +11,17 @@
 I am a data scientist with expertise in TensorFlow and time series analysis.
 
 My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
+
+I have implemented time series solutions for organizations across a range of industries through implementation of statistical analysis as well as more advanced machine learning methodologies.
+
+In addition, I have delivered numerous seminars and presentations in the areas of data science and machine learning, including the [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) training session for O'Reilly Media. Here is a fuller list of my past [speaking engagements](https://www.michael-grogan.com/speaking-engagements/).
+
+## GitHub Portfolio
+
+- [Predicting Hotel Cancellations with Machine Learning](https://github.com/MGCodesandStats/hotel-cancellations)
+
+- [Analysis of Financial Time Series](https://github.com/MGCodesandStats/economics-time-series)
+
+- [Weather Modelling: Time Series Analysis](https://github.com/MGCodesandStats/weather-modelling)
+
+- [NLP: Detecting Spam Messages with TensorFlow](https://github.com/MGCodesandStats/tensorflow-nlp)
