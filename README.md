@@ -20,8 +20,6 @@ In addition, I have delivered numerous seminars and presentations in the areas o
 
 - [Predicting Hotel Cancellations with Machine Learning](https://github.com/MGCodesandStats/hotel-cancellations)
 
-- [Analysis of Financial Time Series](https://github.com/MGCodesandStats/economics-time-series)
-
 - [Weather Modelling: Time Series Analysis](https://github.com/MGCodesandStats/weather-modelling)
 
 - [NLP: Detecting Spam Messages with TensorFlow](https://github.com/MGCodesandStats/tensorflow-nlp)
