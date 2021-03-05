@@ -32,6 +32,8 @@ I have implemented data science solutions for organizations across a range of in
 
 - Delivered comprehensive video training session titled **[TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/)** for O'Reilly Media. Illustrated use of eager execution and AutoGraph, as well as use of *tf.keras* for neural network modelling across classification, regression, and time series datasets.
 
+- Designed the **[Business Analytics with R — Statistics and Machine Learning](https://www.oreilly.com/learning-paths/learning-path-business/9781492035701/)** video series for O'Reilly Media. Illustrated use of data manipulation techniques, regression analysis and hypothesis testing, along with classification and regression-based machine learning techniques. 
+
 ## GitHub Portfolio
 
 - [Predicting Hotel Cancellations with Machine Learning](https://github.com/MGCodesandStats/hotel-cancellations)
