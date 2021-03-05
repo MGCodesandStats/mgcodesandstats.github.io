@@ -26,7 +26,11 @@ My educational background is a Master's degree in Economics from University Coll
 
 I have implemented data science solutions for organizations across a range of industries through implementation of statistical analysis as well as more advanced machine learning methodologies.
 
-In addition, I have delivered numerous seminars and presentations in the areas of data science and machine learning, including the [TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/) training session for O'Reilly Media.
+## Training Seminars and Presentations
+
+- Currently working with Manning Publications on upcoming liveProject series titled **Time Series Forecasting with Bayesian Modeling**. 
+
+- Delivered comprehensive video training session titled **[TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/)** for O'Reilly Media. Illustrated use of eager execution and AutoGraph, as well as use of tf.keras for neural network modelling across classification, regression, and time series datasets.
 
 ## GitHub Portfolio
 
