@@ -35,7 +35,7 @@ I have implemented data science solutions for organizations across a range of in
 
 - Designed the **[Business Analytics with R — Statistics and Machine Learning](https://www.oreilly.com/learning-paths/learning-path-business/9781492035701/)** video series for O'Reilly Media. Illustrated use of data manipulation techniques, regression analysis and hypothesis testing, along with classification and regression-based machine learning techniques.
 
-- I have delivered numerous presentations at major data science conferences and educational institutions, including ML Conference Munich, Nordic Data Science and Machine Learning Summit, Big Data Vilnius, and UA Data Science Conference. Recent presentation sample available [here](https://www.youtube.com/watch?v=t1F1La2FPyE).
+- Delivered numerous presentations at major data science conferences and educational institutions, including ML Conference Munich, Nordic Data Science and Machine Learning Summit, Big Data Vilnius, and UA Data Science Conference. Recent presentation sample available [here](https://www.youtube.com/watch?v=t1F1La2FPyE).
 
 ## GitHub Portfolio
 
