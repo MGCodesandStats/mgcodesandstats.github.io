@@ -38,6 +38,17 @@ My educational background is a Master's degree in Economics from University Coll
 **[Business Analytics with R — Statistics and Machine Learning](https://www.oreilly.com/learning-paths/learning-path-business/9781492035701/). Video series produced for O'Reilly Media _(2018)_.**
 - Illustrated use of data manipulation techniques, regression analysis and hypothesis testing, along with classification and regression-based machine learning techniques.
 
+## Popular Medium posts
+
+Regularly publish data science content on Medium to over **1,000+** followers.
+
+Some of my most popular articles are included below:
+
+- [My Time Series Toolkit](https://towardsdatascience.com/my-time-series-toolkit-4aa841d08325)
+- [Regression-based neural networks: Predicting Average Daily Rates for Hotels](https://towardsdatascience.com/regression-based-neural-networks-with-tensorflow-v2-0-predicting-average-daily-rates-e20fffa7ac9a)
+- [SARIMA vs Prophet: Forecasting Seasonal Weather Data](https://medium.com/analytics-vidhya/sarima-forecasting-seasonal-data-with-python-and-r-2e7472dfad83)
+- [XGBoost and Imbalanced Classes: Predicting Hotel Cancellations](https://towardsdatascience.com/boosting-techniques-in-python-predicting-hotel-cancellations-62b7a76ffa6c)
+
 ## Talks
 
 - [UA Data Science Conference: Predicting Hotel Cancellations with Machine Learning](https://www.youtube.com/watch?v=t1F1La2FPyE)
@@ -49,14 +60,3 @@ My educational background is a Master's degree in Economics from University Coll
 - [Predicting Hotel Cancellations with Machine Learning](https://github.com/MGCodesandStats/hotel-cancellations)
 - [Energy and Weather Modelling: Time Series Analysis](https://github.com/MGCodesandStats/weather-modelling)
 - [NLP: Detecting Spam Messages with TensorFlow](https://github.com/MGCodesandStats/tensorflow-nlp)
-
-## Popular Medium posts
-
-Regularly publish data science content on Medium to over **1,000+** followers.
-
-Some of my most popular articles are included below:
-
-- [My Time Series Toolkit](https://towardsdatascience.com/my-time-series-toolkit-4aa841d08325)
-- [Regression-based neural networks: Predicting Average Daily Rates for Hotels](https://towardsdatascience.com/regression-based-neural-networks-with-tensorflow-v2-0-predicting-average-daily-rates-e20fffa7ac9a)
-- [SARIMA vs Prophet: Forecasting Seasonal Weather Data](https://medium.com/analytics-vidhya/sarima-forecasting-seasonal-data-with-python-and-r-2e7472dfad83)
-- [XGBoost and Imbalanced Classes: Predicting Hotel Cancellations](https://towardsdatascience.com/boosting-techniques-in-python-predicting-hotel-cancellations-62b7a76ffa6c)
