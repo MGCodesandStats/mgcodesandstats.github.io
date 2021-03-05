@@ -27,7 +27,7 @@ My educational background is a Master's degree in Economics from University Coll
 
 I have implemented data science solutions for organizations across a range of industries through implementation of statistical analysis as well as more advanced machine learning methodologies.
 
-## Training Seminars and Presentations
+## Training Courses
 
 - Currently working with Manning Publications on upcoming liveProject series titled **Time Series Forecasting with Bayesian Modeling**. Course content includes modelling of time series shocks with Bayesian Dynamic Linear Modeling, modeling of posterior distributions with PyMC3, MCMC sampling with Prophet, and Structural Time Series Modeling with TensorFlow Probability.
 
@@ -35,12 +35,13 @@ I have implemented data science solutions for organizations across a range of in
 
 - Designed the **[Business Analytics with R — Statistics and Machine Learning](https://www.oreilly.com/learning-paths/learning-path-business/9781492035701/)** video series for O'Reilly Media. Illustrated use of data manipulation techniques, regression analysis and hypothesis testing, along with classification and regression-based machine learning techniques.
 
-- Delivered numerous presentations at major data science conferences and educational institutions, including ML Conference Munich, Nordic Data Science and Machine Learning Summit, Big Data Vilnius, and UA Data Science Conference. Recent presentation sample available [here](https://www.youtube.com/watch?v=t1F1La2FPyE).
+## Talks
+
+- [UA Data Science Conference: Predicting Hotel Cancellations with Machine Learning](https://www.youtube.com/watch?v=t1F1La2FPyE)
+- [Big Data Vilnius: Working with Outliers and Time Series Shocks](https://www.youtube.com/watch?v=hi9ZNB-PRgU)
 
 ## GitHub Portfolio
 
 - [Predicting Hotel Cancellations with Machine Learning](https://github.com/MGCodesandStats/hotel-cancellations)
-
-- [Weather Modelling: Time Series Analysis](https://github.com/MGCodesandStats/weather-modelling)
-
+- [Energy and Weather Modelling: Time Series Analysis](https://github.com/MGCodesandStats/weather-modelling)
 - [NLP: Detecting Spam Messages with TensorFlow](https://github.com/MGCodesandStats/tensorflow-nlp)
