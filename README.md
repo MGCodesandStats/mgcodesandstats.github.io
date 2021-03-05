@@ -25,7 +25,7 @@ My educational background is a Master's degree in Economics from University Coll
 - Python
 - R
 - Shiny Web Apps
-- TensorFlow Probability
+- TensorFlow
 
 ## Training Courses
 
