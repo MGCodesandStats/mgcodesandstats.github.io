@@ -44,7 +44,7 @@ Regularly publish data science content on Medium to over **1,000+** followers.
 
 Some of my most popular articles are included below:
 
-- [My Time Series Toolkit](https://towardsdatascience.com/my-time-series-toolkit-4aa841d08325)
+- [DiCE: Diverse Counterfactual Explanations for Hotel Cancellations (article cited on Microsoft's [_interpretml/DiCE GitHub README page_](https://github.com/interpretml/DiCE))](https://towardsdatascience.com/dice-diverse-counterfactual-explanations-for-hotel-cancellations-762c311b2c64)
 - [Regression-based neural networks: Predicting Average Daily Rates for Hotels](https://towardsdatascience.com/regression-based-neural-networks-with-tensorflow-v2-0-predicting-average-daily-rates-e20fffa7ac9a)
 - [SARIMA vs Prophet: Forecasting Seasonal Weather Data](https://medium.com/analytics-vidhya/sarima-forecasting-seasonal-data-with-python-and-r-2e7472dfad83)
 - [XGBoost and Imbalanced Classes: Predicting Hotel Cancellations](https://towardsdatascience.com/boosting-techniques-in-python-predicting-hotel-cancellations-62b7a76ffa6c)
