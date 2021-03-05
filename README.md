@@ -10,6 +10,10 @@
 
 ### Data Science Consultant with expertise in time series analysis, statistics, Bayesian modelling, and machine learning with TensorFlow.
 
+I implement data science solutions for organizations across a range of industries through implementation of statistical analysis as well as more advanced machine learning methodologies.
+
+My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
+
 Frequently used techniques and technologies include:
 
 - ARIMA
@@ -23,17 +27,16 @@ Frequently used techniques and technologies include:
 - Shiny Web Apps
 - TensorFlow Probability
 
-My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
-
-I have implemented data science solutions for organizations across a range of industries through implementation of statistical analysis as well as more advanced machine learning methodologies.
-
 ## Training Courses
 
-- Currently working with Manning Publications on upcoming liveProject series titled **Time Series Forecasting with Bayesian Modeling**. Course content includes modelling of time series shocks with Bayesian Dynamic Linear Modeling, modeling of posterior distributions with PyMC3, MCMC sampling with Prophet, and Structural Time Series Modeling with TensorFlow Probability.
+**Time Series Forecasting with Bayesian Modeling. LiveProject series produced for Manning Publications _(upcoming)_**
+- Course content includes modelling of time series shocks with Bayesian Dynamic Linear Modeling, modeling of posterior distributions with PyMC3, MCMC sampling with Prophet, and Structural Time Series Modeling with TensorFlow Probability.
 
-- Delivered comprehensive video training session titled **[TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/)** for O'Reilly Media. Illustrated use of eager execution and AutoGraph, as well as use of *tf.keras* for neural network modelling across classification, regression, and time series datasets.
+**[TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/). Video seminar produced for O'Reilly Media _(2019)_**
+- Illustrated use of eager execution and AutoGraph, as well as use of *tf.keras* for neural network modelling across classification, regression, and time series datasets.
 
-- Designed the **[Business Analytics with R — Statistics and Machine Learning](https://www.oreilly.com/learning-paths/learning-path-business/9781492035701/)** video series for O'Reilly Media. Illustrated use of data manipulation techniques, regression analysis and hypothesis testing, along with classification and regression-based machine learning techniques.
+**[Business Analytics with R — Statistics and Machine Learning](https://www.oreilly.com/learning-paths/learning-path-business/9781492035701/). Video series produced for O'Reilly Media _(2018)_.**
+- Illustrated use of data manipulation techniques, regression analysis and hypothesis testing, along with classification and regression-based machine learning techniques.
 
 ## Talks
 
