@@ -10,7 +10,7 @@
 
 ### Data Science Consultant with expertise in time series analysis, statistics, Bayesian modelling, and machine learning with TensorFlow.
 
-Frequently used technologies include:
+Frequently used techniques and technologies include:
 
 - ARIMA
 - AWS
