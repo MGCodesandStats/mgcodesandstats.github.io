@@ -1,6 +1,6 @@
 [Home](https://mgcodesandstats.github.io/) |
 [GitHub](https://github.com/mgcodesandstats) |
-[Speaking Engagements](https://mgcodesandstats.github.io/speaking-engagements/) |
+[LinkedIn](https://www.linkedin.com/in/michaeljgrogan/) |
 [Terms](https://mgcodesandstats.github.io/terms/) |
 [E-mail](mailto:contact@michael-grogan.com)
 
@@ -49,3 +49,14 @@ My educational background is a Master's degree in Economics from University Coll
 - [Predicting Hotel Cancellations with Machine Learning](https://github.com/MGCodesandStats/hotel-cancellations)
 - [Energy and Weather Modelling: Time Series Analysis](https://github.com/MGCodesandStats/weather-modelling)
 - [NLP: Detecting Spam Messages with TensorFlow](https://github.com/MGCodesandStats/tensorflow-nlp)
+
+## Popular Medium posts
+
+Regularly publish data science content on Medium to over **1,000+** followers.
+
+Some of my most popular articles are included below:
+
+- [My Time Series Toolkit](https://towardsdatascience.com/my-time-series-toolkit-4aa841d08325)
+- [Regression-based neural networks: Predicting Average Daily Rates for Hotels](https://towardsdatascience.com/regression-based-neural-networks-with-tensorflow-v2-0-predicting-average-daily-rates-e20fffa7ac9a)
+- [SARIMA vs Prophet: Forecasting Seasonal Weather Data](https://medium.com/analytics-vidhya/sarima-forecasting-seasonal-data-with-python-and-r-2e7472dfad83)
+- [XGBoost and Imbalanced Classes: Predicting Hotel Cancellations](https://towardsdatascience.com/boosting-techniques-in-python-predicting-hotel-cancellations-62b7a76ffa6c)
