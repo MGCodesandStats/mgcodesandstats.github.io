@@ -29,10 +29,10 @@ Frequently used techniques and technologies include:
 
 ## Training Courses
 
-**Time Series Forecasting with Bayesian Modeling. LiveProject series produced for Manning Publications _(upcoming)_**
+**Time Series Forecasting with Bayesian Modeling. LiveProject series produced for Manning Publications _(upcoming)_.**
 - Course content includes modelling of time series shocks with Bayesian Dynamic Linear Modeling, modeling of posterior distributions with PyMC3, MCMC sampling with Prophet, and Structural Time Series Modeling with TensorFlow Probability.
 
-**[TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/). Video seminar produced for O'Reilly Media _(2019)_**
+**[TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/). Video seminar produced for O'Reilly Media _(2019)_.**
 - Illustrated use of eager execution and AutoGraph, as well as use of *tf.keras* for neural network modelling across classification, regression, and time series datasets.
 
 **[Business Analytics with R — Statistics and Machine Learning](https://www.oreilly.com/learning-paths/learning-path-business/9781492035701/). Video series produced for O'Reilly Media _(2018)_.**
@@ -42,6 +42,7 @@ Frequently used techniques and technologies include:
 
 - [UA Data Science Conference: Predicting Hotel Cancellations with Machine Learning](https://www.youtube.com/watch?v=t1F1La2FPyE)
 - [Big Data Vilnius: Working with Outliers and Time Series Shocks](https://www.youtube.com/watch?v=hi9ZNB-PRgU)
+- [Nordic Data Science and Machine Learning Summit: Deep Learning and Audiovisual Data](https://www.youtube.com/watch?v=oU2PC-wbPCw)
 
 ## GitHub Portfolio
 
