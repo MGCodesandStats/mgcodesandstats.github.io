@@ -28,7 +28,7 @@ I have implemented data science solutions for organizations across a range of in
 
 ## Training Seminars and Presentations
 
-- Currently working with Manning Publications on upcoming liveProject series titled **Time Series Forecasting with Bayesian Modeling**. 
+- Currently working with Manning Publications on upcoming liveProject series titled **Time Series Forecasting with Bayesian Modeling**. Course content includes modelling of time series shocks with Bayesian Dynamic Linear Modeling, modeling of posterior distributions with PyMC3, MCMC sampling with Prophet, and Structural Time Series Modeling with TensorFlow Probability.
 
 - Delivered comprehensive video training session titled **[TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/)** for O'Reilly Media. Illustrated use of eager execution and AutoGraph, as well as use of *tf.keras* for neural network modelling across classification, regression, and time series datasets.
 
