@@ -55,11 +55,15 @@ Some of my most popular articles are included below:
 ## Talks
 
 - [UA Data Science Conference: Predicting Hotel Cancellations with Machine Learning _(2020)_](https://www.youtube.com/watch?v=t1F1La2FPyE)
+
 - [Big Data Vilnius: Working with Outliers and Time Series Shocks _(2018)_](https://www.youtube.com/watch?v=hi9ZNB-PRgU)
+
 - [Nordic Data Science and Machine Learning Summit: Deep Learning and Audiovisual Data _(2018)_](https://www.youtube.com/watch?v=oU2PC-wbPCw)
 
 ## GitHub Portfolio
 
 - [Predicting Hotel Cancellations with Machine Learning](https://github.com/MGCodesandStats/hotel-cancellations)
+
 - [Energy and Weather Modelling: Time Series Analysis](https://github.com/MGCodesandStats/weather-modelling)
+
 - [NLP: Detecting Spam Messages with TensorFlow](https://github.com/MGCodesandStats/tensorflow-nlp)
