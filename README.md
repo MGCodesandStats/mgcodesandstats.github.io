@@ -8,7 +8,7 @@
 
 ![profile](resize-0251.jpg)
 
-I am a data scientist with expertise in time series analysis, statistics, Bayesian modelling, and machine learning with TensorFlow.
+### Data Science Consultant with expertise in time series analysis, statistics, Bayesian modelling, and machine learning with TensorFlow.
 
 My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
 
