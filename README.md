@@ -15,6 +15,7 @@ Frequently used tools include:
 - ARIMA
 - AWS
 - InterpretML
+- PostgreSQL
 - Prophet
 - PyMC3
 - TensorFlow Probability
