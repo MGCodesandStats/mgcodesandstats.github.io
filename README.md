@@ -44,7 +44,7 @@ Regularly publish data science content on Medium to over **1,000+** followers.
 
 Some of my most popular articles are included below:
 
-- [DiCE: Diverse Counterfactual Explanations for Hotel Cancellations](https://towardsdatascience.com/dice-diverse-counterfactual-explanations-for-hotel-cancellations-762c311b2c64). Article cited on Microsoft's interpretml/DiCE [_GitHub README page_](https://github.com/interpretml/DiCE)
+- [DiCE: Diverse Counterfactual Explanations for Hotel Cancellations](https://towardsdatascience.com/dice-diverse-counterfactual-explanations-for-hotel-cancellations-762c311b2c64) (article cited on Microsoft's interpretml/DiCE [_GitHub README page_](https://github.com/interpretml/DiCE))
 
 - [Regression-based neural networks: Predicting Average Daily Rates for Hotels](https://towardsdatascience.com/regression-based-neural-networks-with-tensorflow-v2-0-predicting-average-daily-rates-e20fffa7ac9a)
 
