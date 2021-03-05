@@ -51,9 +51,9 @@ Some of my most popular articles are included below:
 
 ## Talks
 
-- [UA Data Science Conference: Predicting Hotel Cancellations with Machine Learning](https://www.youtube.com/watch?v=t1F1La2FPyE)
-- [Big Data Vilnius: Working with Outliers and Time Series Shocks](https://www.youtube.com/watch?v=hi9ZNB-PRgU)
-- [Nordic Data Science and Machine Learning Summit: Deep Learning and Audiovisual Data](https://www.youtube.com/watch?v=oU2PC-wbPCw)
+- [UA Data Science Conference: Predicting Hotel Cancellations with Machine Learning (2020)](https://www.youtube.com/watch?v=t1F1La2FPyE)
+- [Big Data Vilnius: Working with Outliers and Time Series Shocks (2018)](https://www.youtube.com/watch?v=hi9ZNB-PRgU)
+- [Nordic Data Science and Machine Learning Summit: Deep Learning and Audiovisual Data (2018)](https://www.youtube.com/watch?v=oU2PC-wbPCw)
 
 ## GitHub Portfolio
 
