@@ -20,6 +20,7 @@ Frequently used techniques and technologies include:
 - PyMC3
 - Python
 - R
+- Shiny Web Apps
 - TensorFlow Probability
 
 My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
