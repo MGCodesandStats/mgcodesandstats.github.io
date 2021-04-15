@@ -29,7 +29,7 @@ My educational background is a Master's degree in Economics from University Coll
 
 ## Training Courses
 
-**[Time Series Forecasting with Bayesian Modeling](https://www.manning.com/bundles/time-series-forecasting-with-bayesian-modeling). LiveProject series produced for Manning Publications** _(upcoming)_
+**[Time Series Forecasting with Bayesian Modeling](https://www.manning.com/bundles/time-series-forecasting-with-bayesian-modeling). LiveProject series produced for Manning Publications** _(2021)_
 - Course content includes modelling of time series shocks with Bayesian Dynamic Linear Modeling, modeling of posterior distributions with PyMC3, MCMC sampling with Prophet, and Structural Time Series Modeling with TensorFlow Probability.
 
 **[TensorFlow 2.0 Essentials: What's New](https://learning.oreilly.com/live-training/courses/tensorflow-20-essentials-whats-new/0636920307167/). Video seminar produced for O'Reilly Media** _(2019)_
