@@ -8,15 +8,25 @@
 
 ![profile](resize-0251.jpg)
 
-### Data Science Consultant with expertise in time series analysis, statistics, Bayesian modelling, and machine learning with TensorFlow.
+## Data Science Consultant with expertise in economics and time series analysis
 
 I implement data science solutions for organizations across a range of industries through implementation of statistical analysis as well as more advanced machine learning methodologies.
 
-My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of business intelligence; i.e. using machine learning technologies to develop solutions to a wide range of business problems.
+My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of **business intelligence**; i.e. using machine learning technologies to develop solutions to a wide range of business problems. I most frequently work with Python, R, and SQL.
+
+## Some examples of problems that I work on include:
+
+- Classification and regression modelling of customer features to identify significant influencing factors on customer interest and sales.
+- Interpretable machine learning to identify Diverse Counterfactual Explanations, e.g. what changes in features would turn a non-buyer into a buyer?
+- Linear Mixed Effect Modelling with TensorFlow Probability to isolate the impact of separate customer segments on overall sales data.
+- Time series forecasting of sales data using tools such as ARIMA and Prophet.
+- Use of Bayesian analysis to quantify effects of interventions, e.g. effects of factors such as economic shifts or marketing campaigns on consumer interest for a product.
+
+Are you working on a similar type of problem that you wish to discuss? Feel free to [e-mail](mailto:contact@michael-grogan.com) me to set up an initial discussion regarding the same. 
 
 ## Frequently used techniques and technologies
 
-ARIMA, AWS, InterpretML, PostgreSQL, Prophet, PyMC3, Python, R, Shiny Web Apps, TensorFlow
+ARIMA, AWS, InterpretML, MySQL, PostgreSQL, Prophet, PyMC3, Python, R, Shiny Web Apps, TensorFlow
 
 ## Training Courses
 
