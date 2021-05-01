@@ -22,7 +22,7 @@ My educational background is a Master's degree in Economics from University Coll
 - Time series forecasting of sales data using tools such as ARIMA and Prophet.
 - Use of Bayesian analysis to quantify effects of interventions, e.g. effects of factors such as economic shifts or marketing campaigns on consumer interest for a product.
 
-Are you working on a similar type of problem that you wish to discuss? If you feel that my expertise can be of help to you, feel free to [e-mail](mailto:contact@michael-grogan.com) me to set up an initial discussion regarding the same. 
+Are you working on a similar type of problem that you wish to discuss? If you feel that my expertise can be of help to you, feel free to [e-mail](mailto:contact@michael-grogan.com) me to set up an initial discussion. 
 
 ## Frequently used techniques and technologies
 
