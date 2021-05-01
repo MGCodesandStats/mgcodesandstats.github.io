@@ -14,7 +14,7 @@ I implement data science solutions for organizations across a range of industrie
 
 My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of **business intelligence**; i.e. using machine learning technologies to develop solutions to a wide range of business problems. I most frequently work with Python, R, and SQL.
 
-## Some examples of problems that I work on include:
+## Examples of problems that I work on include
 
 - Classification and regression modelling of customer features to identify significant influencing factors on customer interest and sales.
 - Interpretable machine learning to identify Diverse Counterfactual Explanations, e.g. what changes in features would turn a non-buyer into a buyer?
