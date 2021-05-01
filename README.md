@@ -17,9 +17,13 @@ My educational background is a Master's degree in Economics from University Coll
 ## Examples of problems that I work on include
 
 - Classification and regression modelling of customer features to identify significant influencing factors on customer interest and sales.
+
 - Interpretable machine learning to identify Diverse Counterfactual Explanations, e.g. what changes in features would turn a non-buyer into a buyer?
+
 - Linear Mixed Effect Modelling with TensorFlow Probability to identify the impact of separate customer segments on overall sales data.
+
 - Time series forecasting of sales data using tools such as ARIMA and Prophet.
+
 - Use of Bayesian analysis to quantify effects of interventions, e.g. how do factors such as economic shifts or marketing campaigns affect customer interest for a product?
 
 Are you working on a similar type of problem that you wish to discuss? If you feel that my expertise can be of help to you, feel free to **[e-mail me](mailto:contact@michael-grogan.com)** to set up an initial discussion. 
