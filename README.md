@@ -16,16 +16,7 @@ My educational background is a Master's degree in Economics from University Coll
 
 ## Frequently used techniques and technologies
 
-- ARIMA
-- AWS
-- InterpretML
-- PostgreSQL
-- Prophet
-- PyMC3
-- Python
-- R
-- Shiny Web Apps
-- TensorFlow
+ARIMA, AWS, InterpretML, PostgreSQL, Prophet, PyMC3, Python, R, Shiny Web Apps, TensorFlow
 
 ## Training Courses
 
@@ -38,20 +29,6 @@ My educational background is a Master's degree in Economics from University Coll
 **[Business Analytics with R — Statistics and Machine Learning](https://www.oreilly.com/learning-paths/learning-path-business/9781492035701/). Video series produced for O'Reilly Media** _(2018)_
 - Illustrated use of data manipulation techniques, regression analysis and hypothesis testing, along with classification and regression-based machine learning techniques.
 
-## Popular Medium posts
-
-Regularly publish data science content on Medium to over **1,000+** followers.
-
-Some of my most popular articles are included below:
-
-- [DiCE: Diverse Counterfactual Explanations for Hotel Cancellations](https://towardsdatascience.com/dice-diverse-counterfactual-explanations-for-hotel-cancellations-762c311b2c64) (_article cited on Microsoft's interpretml/DiCE [GitHub README](https://github.com/interpretml/DiCE)_)
-
-- [Regression-based neural networks: Predicting Average Daily Rates for Hotels](https://towardsdatascience.com/regression-based-neural-networks-with-tensorflow-v2-0-predicting-average-daily-rates-e20fffa7ac9a)
-
-- [SARIMA vs Prophet: Forecasting Seasonal Weather Data](https://medium.com/analytics-vidhya/sarima-forecasting-seasonal-data-with-python-and-r-2e7472dfad83)
-
-- [XGBoost and Imbalanced Classes: Predicting Hotel Cancellations](https://towardsdatascience.com/boosting-techniques-in-python-predicting-hotel-cancellations-62b7a76ffa6c)
-
 ## Talks
 
 - [UA Data Science Conference: Predicting Hotel Cancellations with Machine Learning](https://www.youtube.com/watch?v=t1F1La2FPyE) _(2020)_
@@ -59,11 +36,3 @@ Some of my most popular articles are included below:
 - [Big Data Vilnius: Working with Outliers and Time Series Shocks](https://www.youtube.com/watch?v=hi9ZNB-PRgU) _(2018)_
 
 - [Nordic Data Science and Machine Learning Summit: Deep Learning and Audiovisual Data](https://www.youtube.com/watch?v=oU2PC-wbPCw) _(2018)_
-
-## GitHub Portfolio
-
-- [Predicting Hotel Cancellations with Machine Learning](https://github.com/MGCodesandStats/hotel-cancellations)
-
-- [Energy and Weather Modelling: Time Series Analysis](https://github.com/MGCodesandStats/weather-modelling)
-
-- [NLP: Detecting Spam Messages with TensorFlow](https://github.com/MGCodesandStats/tensorflow-nlp)
