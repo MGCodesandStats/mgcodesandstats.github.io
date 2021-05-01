@@ -18,9 +18,9 @@ My educational background is a Master's degree in Economics from University Coll
 
 - Classification and regression modelling of customer features to identify significant influencing factors on customer interest and sales.
 - Interpretable machine learning to identify Diverse Counterfactual Explanations, e.g. what changes in features would turn a non-buyer into a buyer?
-- Linear Mixed Effect Modelling with TensorFlow Probability to isolate the impact of separate customer segments on overall sales data.
+- Linear Mixed Effect Modelling with TensorFlow Probability to identify the impact of separate customer segments on overall sales data.
 - Time series forecasting of sales data using tools such as ARIMA and Prophet.
-- Use of Bayesian analysis to quantify effects of interventions, e.g. effects of factors such as economic shifts or marketing campaigns on consumer interest for a product.
+- Use of Bayesian analysis to quantify effects of interventions, e.g. how do factors such as economic shifts or marketing campaigns affect customer interest for a product?
 
 Are you working on a similar type of problem that you wish to discuss? If you feel that my expertise can be of help to you, feel free to [e-mail](mailto:contact@michael-grogan.com) me to set up an initial discussion. 
 
