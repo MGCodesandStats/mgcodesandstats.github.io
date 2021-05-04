@@ -26,7 +26,7 @@ My educational background is a Master's degree in Economics from University Coll
 
 - Use of Bayesian analysis to quantify effects of interventions, e.g. how do factors such as economic shifts or marketing campaigns affect customer interest for a product?
 
-Are you working on a similar type of problem that you wish to discuss? If you feel that my expertise can be of help to you, feel free to **[e-mail me](mailto:contact@michael-grogan.com)** to set up an initial discussion. 
+Are you working on a similar type of problem that you wish to discuss? If you feel that my expertise can be of help to you, feel free to **[get in contact](mailto:contact@michael-grogan.com)**. 
 
 ## Frequently used techniques and technologies
 
