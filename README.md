@@ -30,7 +30,7 @@ Are you working on a similar type of problem that you wish to discuss? If you fe
 
 ## Frequently used techniques and technologies
 
-ARIMA, AWS, InterpretML, MySQL, PostgreSQL, Prophet, PyMC3, Python, R, Shiny Web Apps, TensorFlow
+ARIMA, AWS, InterpretML, Linux, MySQL, PostgreSQL, Prophet, PyMC3, Python, R, Shiny Web Apps, TensorFlow
 
 ## Training Courses
 
