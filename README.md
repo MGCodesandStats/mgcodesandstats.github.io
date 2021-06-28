@@ -45,6 +45,8 @@ ARIMA, AWS, InterpretML, Linux, MySQL, PostgreSQL, Prophet, PyMC3, Python, R, Sh
 
 ## Talks
 
+- [Manning: Enhancing Business Intelligence With PyMC3](https://www.twitch.tv/videos/1044285814) _(2021)_
+
 - [UA Data Science Conference: Predicting Hotel Cancellations with Machine Learning](https://www.youtube.com/watch?v=t1F1La2FPyE) _(2020)_
 
 - [Big Data Vilnius: Working with Outliers and Time Series Shocks](https://www.youtube.com/watch?v=hi9ZNB-PRgU) _(2018)_
