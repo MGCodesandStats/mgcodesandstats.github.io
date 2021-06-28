@@ -12,7 +12,7 @@
 
 I implement data science solutions for organizations across a range of industries through implementation of statistical analysis as well as more advanced machine learning methodologies.
 
-My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of **business intelligence**; i.e. using machine learning technologies to develop solutions to a wide range of business problems. I most frequently work with Python, R, and SQL.
+My educational background is a Master's degree in Economics from University College Cork, Ireland. As such, much of my work has been in the domain of **business intelligence**; i.e. using machine learning technologies to develop solutions to a wide range of business problems. I most frequently work with Python and R.
 
 ## My expertise includes
 
